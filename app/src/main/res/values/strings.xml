@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="delete_all_task">Remove all Notes?</string>
+    <string name="delete_all_note_confirmation">Are you sure you want to remove all Notes, There is no going back after this action?</string>
+    <string name="app_name">To_Do App</string>
+    <string name="search_icon">Search Icon</string>
+    <string name="more_icon">More Icon</string>
+    <string name="delete_note">Remove \'%1$s\'?</string>
+    <string name="delete_note_confirmation">Are you sure you want to remove \'%1$s\'?</string>
+    <string name="delete_all">Delete All !</string>
+    <string name="close_icon">Close Icon</string>
+    <string name="empty_image">Empty Image</string>
+    <string name="icon_add">Icon Add</string>
+    <string name="icon_back">Icon Back</string>
+    <string name="delete_icon">Delete Icon</string>
+    <string name="update_icon">Update Icon</string>
+    <string name="arrow_down_image">Arrow Down Image</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="splash_screen_image">Splash Screen Image</string>
+</resources>
